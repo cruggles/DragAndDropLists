@@ -106,7 +106,7 @@ class _ListTileExample extends State<ListTileExample> {
             Text(
               'Empty List',
               style: TextStyle(
-                  color: Theme.of(context).textTheme.caption!.color,
+                  color: Theme.of(context).textTheme.bodySmall!.color,
                   fontStyle: FontStyle.italic),
             ),
             const Expanded(

@@ -73,7 +73,7 @@ class _SliverExample extends State<SliverExample> {
                 alignment: Alignment.bottomCenter,
                 child: Text(
                   'Slivers',
-                  style: Theme.of(context).primaryTextTheme.headline1,
+                  style: Theme.of(context).primaryTextTheme.headlineMedium,
                 ),
               ),
             ),
